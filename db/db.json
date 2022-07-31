@@ -1,0 +1,96 @@
+{
+  "user": [
+    {
+      "email": "ha4050202@gmail.com",
+      "password": "hassan@123",
+      "name": "hassanaali",
+      "id": 1
+    },
+    {
+      "email": "asd",
+      "name": "asd",
+      "password": "asd",
+      "id": 2
+    },
+    {
+      "email": "ha4050202@gmail.com",
+      "password": "hassanali",
+      "name": "hassanaali",
+      "id": 3
+    },
+    {
+      "email": "ha4050202@gmail.com",
+      "password": "hassan@123",
+      "name": "hassanaali",
+      "id": 4
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 13
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Adeel khan tanoli mansehra kangra",
+      "address": "swghdhj",
+      "contact": "312143",
+      "id": 1
+    },
+    {
+      "name": "a",
+      "address": "a",
+      "contact": "s",
+      "id": 2
+    }
+  ]
+}
